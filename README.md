@@ -20,6 +20,11 @@ me di cuenta que es igualito a AngularJS.
 
 El Proyecto solo esta en la parte back end. 
 
+PD: Voy a tratar de seguir incrementando entregas funcionales en GitHub de este proyecto, ya que si hubiese tenido mas
+tiempo me habria quedado mucho mejor. Pueden verlo en 3 dias mas para notar la diferencia. 
+
+GRACIAS
+
 ## Installation
 
 ```bash
